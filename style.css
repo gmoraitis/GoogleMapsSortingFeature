@@ -1,0 +1,57 @@
+/* General */
+
+body {
+    padding: 2%;
+    background-color: black;
+}
+
+header {
+    padding: 156px 0 100px;
+}
+
+section {
+    padding: 150px 0;
+}
+
+#links {
+    text-decoration: none;
+}
+
+/* D3 */
+
+.node circle {
+    fill: #536878;
+    stroke: #fbbc05;
+    stroke-width: 2px;
+}
+
+.node text {
+    font: 14px sans-serif;
+    /* stroke: rgb(2, 6, 245); */
+}
+
+.link {
+    fill: none;
+    stroke: #4285f4;
+    stroke-width: 0.8px;
+}
+
+/* Google Colors */
+
+.theblue {
+    color: #4285f4;
+}
+
+.thered {
+    color: #ea4335;
+}
+
+.theyellow {
+    color: #fbbc05;
+}
+
+.thegreen {
+    color: #34a853;
+}
+
+
